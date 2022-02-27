@@ -6,7 +6,7 @@ Pour le configurer vous devez aller dans `config.json`
 {
     "token": "Le token de votre bot",
 
-    "default_prefix": "le prefix", 
+    "default_prefix": "&", 
 
     "owners": ["Votre id"], 
 
@@ -21,3 +21,6 @@ Pour le configurer vous devez aller dans `config.json`
     "botinvite": "son invitation"
 }
 ```
+## 📝 Commandes
+
+Le préfixe par défaut est &
