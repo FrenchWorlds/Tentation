@@ -1,5 +1,6 @@
 # 🥀・Tentation
 
+> Un bot discord qui tourne sur discord.js v12
 ## 🚧 Prerequisites 
 
 - [Node.js 14+](https://nodejs.org/en/download/)
@@ -9,7 +10,7 @@
 ## 🚀 Pour commencer
 
 ```sh
-git clone https://github.com/iamfrench/Tentation
+git clone https://github.com/french08/Tentation
 ```
 
 Une fois l'installation terminée, suivez les instructions de configuration, puis exécutez `node index.js` pour démarrer le bot.
