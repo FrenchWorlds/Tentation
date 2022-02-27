@@ -1,6 +1,18 @@
 # 🥀・Tentation
 
-Pour le configurer vous devez aller dans `config.json`
+## 🚀 Pour commencer
+
+```sh
+git clone https://github.com/iamfrench/tentation
+```
+
+Une fois l'installation terminée, suivez les instructions de configuration, puis exécutez `node index.js` pour démarrer le bot.
+
+## ⚙️ Configuration
+
+Copiez ou renommez `config.json.example` en `config.json` et remplissez les valeurs :
+
+⚠️ **Note: Ne partager jamais votre token et tenor api key** ⚠️
 
 ```json
 {
