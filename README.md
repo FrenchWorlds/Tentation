@@ -1,5 +1,8 @@
 # 🥀・Tentation
 
+- [x] Modération
+- [x] Fun
+- [ ] Musique
 > Un bot discord qui tourne sur discord.js v12
 ## 🚧 Prerequisites 
 
