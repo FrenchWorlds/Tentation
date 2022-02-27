@@ -1,9 +1,14 @@
 # 🥀・Tentation
+- [x] 🤖・Bot
+- [x] 🎉・Fun
+- [x] 📸・Image
+- [x] 🧑‍⚖️・Modération
+- [ ] 🎵・Musique
+- [x] 🧑‍💻・Owner
+- [x] ⚙️・Utilitaire
 
-- [x] Modération
-- [x] Fun
-- [ ] Musique
 > Un bot discord qui tourne sur discord.js v12
+
 ## 🚧 Prerequisites 
 
 - [Node.js 14+](https://nodejs.org/en/download/)
