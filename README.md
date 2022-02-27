@@ -40,4 +40,4 @@ Copiez ou renommez `config.json.example` en `config.json` et remplissez les vale
 ```
 ## 📝 Commandes
 
-Le préfixe par défaut est &
+**Note: Le préfixe par défaut est &**
