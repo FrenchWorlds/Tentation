@@ -41,3 +41,5 @@ Copiez ou renommez `config.json.example` en `config.json` et remplissez les vale
 ## 📝 Commandes
 
 Le préfixe par défaut est &
+
+[![Run on Repl.it](https://repl.it/badge/github/iamfrench2008/tentation)](https://repl.it/github/iamfrench2008/tentation)
