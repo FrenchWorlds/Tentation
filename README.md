@@ -9,7 +9,9 @@
 - [Discord dev](https://discord.com/developers/applications)
 - [Tenor api key](https://tenor.com/developer/keyregistration)
 ## 🚀 Pour commencer
+
 [![Run on Repl.it](https://repl.it/badge/github/french08/Tentation)](https://repl.it/github/french08/Tentation)
+
 ```sh
 git clone https://github.com/french08/Tentation
 ```
