@@ -1,6 +1,6 @@
 # 🥀・Tentation
 
-> Un bot discord qui tourne sur discord.js v12
+> Un bot **discord** qui tourne sur discord.js v12
 
 ## 🚧 Prerequisites 
 
