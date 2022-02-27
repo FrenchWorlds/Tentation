@@ -1,11 +1,4 @@
 # 🥀・Tentation
-- [x] 🤖・Bot
-- [x] 🎉・Fun
-- [x] 📸・Image
-- [x] 🧑‍⚖️・Modération
-- [ ] 🎵・Musique
-- [x] 🧑‍💻・Owner
-- [x] ⚙️・Utilitaire
 
 > Un bot discord qui tourne sur discord.js v12
 
@@ -51,3 +44,11 @@ Copiez ou renommez `config.json.example` en `config.json` et remplissez les vale
 ## 📝 Commandes
 
 **Note: Le préfixe par défaut est &**
+
+> - [x] 🤖・Bot
+> - [x] 🎉・Fun
+> - [x] 📸・Image
+> - [x] 🧑‍⚖️・Modération
+> - [ ] 🎵・Musique
+> - [x] 🧑‍💻・Owner
+> - [x] ⚙️・Utilitaire
