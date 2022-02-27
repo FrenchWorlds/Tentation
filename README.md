@@ -8,7 +8,7 @@
 ## 🚀 Pour commencer
 
 ```sh
-git clone https://github.com/iamfrench/tentation
+git clone https://github.com/iamfrench/Tentation
 ```
 
 Une fois l'installation terminée, suivez les instructions de configuration, puis exécutez `node index.js` pour démarrer le bot.
@@ -42,4 +42,4 @@ Copiez ou renommez `config.json.example` en `config.json` et remplissez les vale
 
 Le préfixe par défaut est &
 
-[![Run on Repl.it](https://repl.it/badge/github/iamfrench2008/tentation)](https://repl.it/github/iamfrench2008/tentation)
+[![Run on Repl.it](https://repl.it/badge/github/iamfrench2008/Tentation)](https://repl.it/github/iamfrench2008/Tentation)
