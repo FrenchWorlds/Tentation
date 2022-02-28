@@ -48,6 +48,7 @@ Copiez ou renommez `config.json.example` en `config.json` et remplissez les vale
 **Note: Le préfixe par défaut est &**
 
 > - [x] 🤖・Bot
+> - [ ]  💵・Économie
 > - [x] 🎉・Fun
 > - [x] 📸・Image
 > - [x] 🧑‍⚖️・Modération
