@@ -20,7 +20,7 @@ Une fois l'installation terminée, suivez les instructions de configuration, pui
 
 ## ⚙️ Configuration
 
-Copiez ou renommez `config.json.example` en `config.json` et remplissez les valeurs :
+Copiez ou télécharger `config.json` et remplissez les valeurs :
 
 ⚠️ **Note: Ne partager jamais votre token et tenor api key** ⚠️
 
