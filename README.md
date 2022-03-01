@@ -47,7 +47,7 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 
 **Note: Le préfixe par défaut est &**
 
-> - [ ] 🐢・Animaux
+> - [x] 🐢・Animaux
 > - [x] 🤖・Bot
 > - [ ] 💵・Économie
 > - [x] 🎉・Fun
