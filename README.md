@@ -49,7 +49,7 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 
 > - [x] 🐢・Animaux
 > - [x] 🤖・Bot
-> - [ ] 💵・Économie
+> - [x] 💵・Économie
 > - [x] 🎉・Fun
 > - [x] 📸・Image
 > - [x] 🧑‍⚖️・Modération
