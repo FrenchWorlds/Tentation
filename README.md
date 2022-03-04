@@ -26,21 +26,27 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 
 ```json
 {
-    "token": "Le token de votre bot",
+    "token": "Le token du bot",
+    
+    
+    "default_prefix": "&",
+    
+    
+    "owners": ["votre id"],
+    
+    
+   "tenorkey": "la clé tenor",
 
-    "default_prefix": "&", 
+    
 
-    "owners": ["Votre id"], 
+    "color": "#DEB887",
 
-    "tenorkey": "l'api key",
 
-    "color": "la couleur des embed",
+    "salonready": ["id d'un channel"],
+    
 
-    "salonready": ["id du salon quand il est prêt"],
-
-    "ServeurSupport": "https://discord.gg/7MymxY4T2M",
-
-    "botinvite": "son invitation"
+    "erreur": ":x:"
+   
 }
 ```
 ## 📝 Commandes
