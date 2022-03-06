@@ -45,7 +45,9 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
     "salonready": ["id d'un channel"],
     
 
-    "erreur": ":x:"
+    "erreur": ":x:",
+
+    "everyoneMention": false
    
 }
 ```
@@ -57,6 +59,7 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 > - [x] 🤖・Bot
 > - [x] 💵・Économie
 > - [x] 🎉・Fun
+> - [x] 🎁・Giveaway
 > - [x] 📸・Image
 > - [x] 🧑‍⚖️・Modération
 > - [ ] 🎵・Musique
