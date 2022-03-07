@@ -8,6 +8,7 @@
 - [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3)
 - [Discord dev](https://discord.com/developers/applications)
 - [Tenor api key](https://tenor.com/developer/keyregistration)
+
 ## 🚀 Pour commencer
 
 [![Run on Repl.it](https://repl.it/badge/github/french08/Tentation)](https://repl.it/github/french08/Tentation)
@@ -65,3 +66,10 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 > - [ ] 🎵・Musique
 > - [x] 🧑‍💻・Owner
 > - [x] ⚙️・Utilitaire
+
+
+## 🛠️ Package
+
+[Discord js]()
+[]()
+[]()
