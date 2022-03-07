@@ -70,35 +70,18 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 
 ## 🛠️ Package
 
-- [anime-images-api]()
-- [ascii-table]()
-- [discord-giveaways]()
-- [discord.js]()
-- [fs]()
-- [mathjs]()
-- [moment]()
-- [ms]()
-- [node-fetch]()
-- [nsfw-discord]()
-- [parse-ms]()
-- [quick.db]()
-- [tenorjs]()
-- [twemoji-parser]()
-- [weather-js]()
-
-
-    "anime-images-api": "^2.0.0",
-    "ascii-table": "^0.0.9",
-    "discord-giveaways": "^4.5.1",
-    "discord.js": "^12.5.3",
-    "fs": "^0.0.1-security",
-    "mathjs": "^10.1.1",
-    "moment": "^2.29.1",
-    "ms": "^2.1.3",
-    "node-fetch": "^2.6.7",
-    "nsfw-discord": "^7.0.0",
-    "parse-ms": "2.1",
-    "quick.db": "^7.1.3",
-    "tenorjs": "^1.0.8",
-    "twemoji-parser": "^13.1.0",
-    "weather-js": "^2.0.0"
+- [anime-images-api](https://www.npmjs.com/package/anime-images-api/v/2.0.0)
+- [ascii-table](https://www.npmjs.com/package/ascii-table/v/0.0.9)
+- [discord-giveaways](https://www.npmjs.com/package/discord-giveaways/v/4.5.1)
+- [discord.js](https://discord.js.org/#/docs/discord.js/12.5.3/general/welcome)
+- [fs](https://www.npmjs.com/package/fs/v/0.0.1-security)
+- [mathjs](https://www.npmjs.com/package/mathjs/v/10.1.1)
+- [moment](https://www.npmjs.com/package/moment)
+- [ms](https://www.npmjs.com/package/ms/v/2.1.3)
+- [node-fetch](https://www.npmjs.com/package/node-fetch/v/2.6.7)
+- [nsfw-discord](https://www.npmjs.com/package/nsfw-discord)
+- [parse-ms](https://www.npmjs.com/package/parse-ms/v/2.1.0)
+- [quick.db](https://www.npmjs.com/package/quick.db)
+- [tenorjs](https://www.npmjs.com/package/tenorjs)
+- [twemoji-parser](https://www.npmjs.com/package/twemoji-parser)
+- [weather-js](https://www.npmjs.com/package/weather-js)
