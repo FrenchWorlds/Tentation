@@ -70,6 +70,36 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 
 ## 🛠️ Package
 
-[Discord js]()
-[]()
-[]()
+- [anime-images-api]()
+- [ascii-table]()
+- [discord-giveaways]()
+- [discord.js]()
+- [fs]()
+- [mathjs]()
+- [moment]()
+- [ms]()
+- [node-fetch]()
+- [nsfw-discord]()
+- [parse-ms]()
+- [quick.db]()
+- [tenorjs]()
+- [twemoji-parser]()
+- [weather-js]()
+
+
+    "": "^2.0.0",
+    "": "^0.0.9",
+    "": "^4.5.1",
+
+    "": "^12.5.3",
+    "": "^0.0.1-security",
+    "": "^10.1.1",
+    "": "^2.29.1",
+    "": "^2.1.3",
+    "": "^2.6.7",
+    "": "^7.0.0",
+    "": "2.1",
+    "": "^7.1.3",
+    "": "^1.0.8",
+    "": "^13.1.0",
+    "": "^2.0.0"
