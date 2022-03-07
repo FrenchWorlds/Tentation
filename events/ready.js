@@ -8,7 +8,7 @@ const {default_prefix, color, salonready} = require ('../config.json');
 
  const statuses = [
 
-        () => '&help',
+        () => `${default_prefix}help`,
 
         () => `${Math.round(client.ws.ping)}ms`,        
 
