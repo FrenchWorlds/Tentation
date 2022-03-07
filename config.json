@@ -1,14 +1,14 @@
 {
-    "token": "OTI5NzU4MzEwODg0ODU5OTM4.Ydr-5w.70Rfkomxh7ltlmmf62u2300nN0I",
+    "token": "Votre token",
     
     
     "default_prefix": "&",
     
     
-    "owners": ["699570257869799455"],
+    "owners": ["699570257869799455","Votre id"],
     
     
-   "tenorkey": "5VPPS9PSKT87",
+   "tenorkey": "Votre tenor api key",
 
     
 
@@ -16,7 +16,7 @@
 
     
 
-    "salonready": ["947606193931694100"],
+    "salonready": ["votre salon de ready"],
     
     "erreur": ":x:",
      
