@@ -63,7 +63,6 @@ Copiez ou télécharger `config.json` et remplissez les valeurs :
 > - [x] 🎁・Giveaway
 > - [x] 📸・Image
 > - [x] 🧑‍⚖️・Modération
-> - [ ] 🎵・Musique
 > - [x] 🧑‍💻・Owner
 > - [x] ⚙️・Utilitaire
 
